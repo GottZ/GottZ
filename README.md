@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on my own secret infrastructure project
-- 🌱 I’m currently learning zig
-- 👯 I’m currently not looking to collaborate on anything
-- 🤔 I’m possibly looking for help with my secret infrastructure project in future after I announced it
+- 🔭 I’m working on my own [LLM Brain](https://Github.com/GottZ/ctx) for future and current projects
+- 🌱 I’m growing my own datacenter at home
+- 👯 I’m looking for collaboration and financial support regarding my [LLM Brain](https://Github.com/GottZ/ctx)
+- ⌚ I'm bound to wage-slavery right now
 - 💬 Ask me about anything
 - 📫 How to reach me: [contact.gottz.de](https://contact.gottz.de)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: yolo. make the best out of your remaining time.
